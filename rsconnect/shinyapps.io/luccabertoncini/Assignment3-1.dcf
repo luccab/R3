@@ -1,0 +1,13 @@
+name: Assignment3-1
+title: Assignment3-1
+username:
+account: luccabertoncini
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 546801
+bundleId: 1676661
+url: https://luccabertoncini.shinyapps.io/Assignment3-1/
+when: 1541085146.39763
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Assignment2.R|Rplot.pdf|Rplot01.pdf|Rplot02.pdf|Rplot03.pdf|UAS_Sightings_report_21Aug-31Jan.xlsx|UASEventsNov2014-Aug2015.xls|Untitled.R
